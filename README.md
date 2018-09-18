@@ -2,5 +2,9 @@
 This is the core directory structure (assignments, projects, feedback and more) of SEFP course at IIT Tirupati
 http://researchweb.iiit.ac.in/~sridhar_ch/courses/sefp/home.html
 
-Everybody, clone this project structure in your accounts and start doing updates. 
-Don't wait till you finish entire thing. Upload as-is
+-> This repository contains an APK file of an Augmented Reality App for museums.
+      This APK file is a prototype or working model of the app made in three days.
+      This App was made using Unity 3-D and vuforia.
+      
+      
+
